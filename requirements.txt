@@ -1,0 +1,3 @@
+natsort~=8.1.0
+torch~=1.12.0
+uiautomator~=1.0.2

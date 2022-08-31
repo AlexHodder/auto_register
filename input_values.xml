@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<user>
+    <firstname>
+        John
+    </firstname>
+    <lastname>
+        Doe
+    </lastname>
+    <fullname>
+        John Doe
+    </fullname>
+    <country>
+        United Kingdom
+    </country>
+    <region>
+        United Kingdom
+    </region>
+    <username-base>
+        john_doe_tester
+    </username-base>
+    <password>
+        ABCabc123!!!
+    </password>
+    <mobile-number>
+            07000 000 000
+    </mobile-number>
+    <area-code>
+        +44
+    </area-code>
+    <date-of-birth>
+        01/01/1970
+    </date-of-birth>
+    <age>
+        50
+    </age>
+    <gender>
+        Male
+    </gender>
+    <title>
+        Mr
+    </title>
+    <gmail-user>
+        insert_email@gmail.com
+    </gmail-user>
+    <gmail-pass>
+        insert_password
+    </gmail-pass>
+    <email>
+        insert_email@gmail.com
+    </email>
+    <postcode>
+        NW11AA
+    </postcode>
+</user>
