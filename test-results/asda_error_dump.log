@@ -1,0 +1,41 @@
+--------------------
+com.asda.android
+Email with score tensor([0.8636]) matching Email Address
+Password with score tensor([1.0000]) matching Password
+/home/alex/Documents/SummerProject/login_screen_finder/parse_dump.py:186: FutureWarning: Possible nested set at position 1
+  group = re.search('[[]([0-9]+),([0-9]+)[]][[]([0-9]+),([0-9]+)[]]', bounds)
+/home/alex/Documents/SummerProject/login_screen_finder/parse_dump.py:186: FutureWarning: Possible nested set at position 24
+  group = re.search('[[]([0-9]+),([0-9]+)[]][[]([0-9]+),([0-9]+)[]]', bounds)
+Edit Texts: {'Email Address': {'index': '1', 'text': 'Email', 'resource-id': 'com.asda.android:id/gp_email_value', 'class': 'android.widget.EditText', 'package': 'com.asda.android', 'content-desc': '', 'checkable': 'false', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'true', 'password': 'false', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[44,377][1036,509]'}, 'Password': {'index': '2', 'text': 'Password', 'resource-id': 'com.asda.android:id/gp_password_value', 'class': 'android.widget.EditText', 'package': 'com.asda.android', 'content-desc': '', 'checkable': 'false', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'true', 'password': 'true', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[44,561][1036,693]'}}
+Checkbox: {'Yes, I want Asda and George to contact me': {'NAF': 'true', 'index': '0', 'text': '', 'resource-id': 'com.asda.android:id/gp_spam_me_toggle', 'class': 'android.widget.CheckBox', 'package': 'com.asda.android', 'content-desc': '', 'checkable': 'true', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'false', 'password': 'false', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[44,1159][110,1225]'}, 'I have read and accepted the Terms & Conditions': {'NAF': 'true', 'index': '0', 'text': '', 'resource-id': 'com.asda.android:id/gp_terms_and_conditions_toggle', 'class': 'android.widget.CheckBox', 'package': 'com.asda.android', 'content-desc': '', 'checkable': 'true', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'false', 'password': 'false', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[44,1915][110,1981]'}}
+Buttons: {}
+Clickables: {'SHOW': {'index': '3', 'text': '', 'resource-id': 'com.asda.android:id/gp_password_visibility_btn', 'class': 'android.widget.ImageButton', 'package': 'com.asda.android', 'content-desc': 'SHOW', 'checkable': 'false', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'false', 'password': 'false', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[948,568][1036,700]'}, '': {'NAF': 'true', 'index': '1', 'text': '', 'resource-id': 'com.asda.android:id/gp_toggle_what_to_expect', 'class': 'android.widget.ToggleButton', 'package': 'com.asda.android', 'content-desc': '', 'checkable': 'true', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'false', 'password': 'false', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[609,1303][675,1369]'}, 'Yes, I want Asda and George to contact me': {'index': '1', 'text': 'Yes, I want Asda and George to contact me', 'resource-id': 'com.asda.android:id/gp_spam_me_text', 'class': 'android.widget.TextView', 'package': 'com.asda.android', 'content-desc': '', 'checkable': 'false', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'false', 'password': 'false', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[143,1166][1036,1244]'}, 'Our Privacy Centre provides more details on marketing, how we use your information and about your Privacy rights. You can unsubscribe any time.': {'index': '9', 'text': 'Our Privacy Centre provides more details on marketing, how we use your information and about your Privacy rights. You can unsubscribe any time.', 'resource-id': 'com.asda.android:id/gp_privacy_center_text', 'class': 'android.widget.TextView', 'package': 'com.asda.android', 'content-desc': '', 'checkable': 'false', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'false', 'password': 'false', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[0,1402][1080,1667]'}, 'I have read and accepted the Terms & Conditions': {'index': '1', 'text': 'I have read and accepted the Terms & Conditions', 'resource-id': 'com.asda.android:id/gp_terms_and_conditions_text', 'class': 'android.widget.TextView', 'package': 'com.asda.android', 'content-desc': '', 'checkable': 'false', 'checked': 'false', 'clickable': 'true', 'enabled': 'true', 'focusable': 'true', 'focused': 'false', 'scrollable': 'false', 'long-clickable': 'false', 'password': 'false', 'selected': 'false', 'visible-to-user': 'true', 'bounds': '[143,1922][1036,2028]'}}
+Setting Email Address field 
+ -----------------
+Setting Password field 
+ -----------------
+Setting Yes, I want Asda and George to contact me checkbox to True
+Traceback (most recent call last):
+  File "/home/alex/Documents/SummerProject/login_screen_finder/venv/lib/python3.8/site-packages/uiautomator/__init__.py", line 427, in wrapper
+    return _method_obj(*args, **kwargs)
+  File "/home/alex/Documents/SummerProject/login_screen_finder/venv/lib/python3.8/site-packages/uiautomator/__init__.py", line 130, in __call__
+    raise JsonRPCError(
+uiautomator.JsonRPCError: JsonRPC Error code: -32002, Message: androidx.test.uiautomator.UiObjectNotFoundException: UiSelector[TEXT=, CLASS=android.widget.CheckBox, DESCRIPTION=]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "action_input.py", line 102, in <module>
+    fill_current(*parse_dump.get_attributes_to_fill('dump.xml', package_name=package_name))
+  File "action_input.py", line 59, in fill_current
+    box.click()
+  File "/home/alex/Documents/SummerProject/login_screen_finder/venv/lib/python3.8/site-packages/uiautomator/__init__.py", line 74, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/alex/Documents/SummerProject/login_screen_finder/venv/lib/python3.8/site-packages/uiautomator/__init__.py", line 934, in _click
+    return self.jsonrpc.click(self.selector)
+  File "/home/alex/Documents/SummerProject/login_screen_finder/venv/lib/python3.8/site-packages/uiautomator/__init__.py", line 447, in wrapper
+    return _method_obj(*args, **kwargs)
+  File "/home/alex/Documents/SummerProject/login_screen_finder/venv/lib/python3.8/site-packages/uiautomator/__init__.py", line 130, in __call__
+    raise JsonRPCError(
+uiautomator.JsonRPCError: JsonRPC Error code: -32002, Message: androidx.test.uiautomator.UiObjectNotFoundException: UiSelector[TEXT=, CLASS=android.widget.CheckBox, DESCRIPTION=]
+
